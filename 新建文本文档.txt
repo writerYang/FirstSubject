@@ -1,0 +1,43 @@
+常用类,集合(扩容),多线程，网络编程,i/o,设计模式，算法，数据结构,反射
+多表联查，sql语句优化
+4大域对象，jsp内置对象
+springboot,框架
+
+
+1. 具备扎实的Java基础，深入理解OOP编程思想，具有良好的编码习惯。
+2. 深刻理解JavaWEB技术体系架构，熟练掌握Servlet/JSP技术。
+3. 熟练掌握Struts2、Hibernate、Spring框架。
+4. 熟练掌握SpringMVC、MyBatis 等开源框架、深刻理解 SpringMVC 核心流程。
+5. 熟练使用基于 CXF 框架 WebService 的客户端、服务端开发。
+6. 熟练掌握HTML、CSS、JavaScript、Ajax、jQuery、Easyui、bootstrap、Echarts等前台开发技术。
+深刻理解 JavaScript 面向对象以及基于原型继承的编程思想，能提高系统友好性、可操作性、提升用户体验效果。
+7. 熟悉Oracle、MySQL关系型数据库，掌握PL/SQL语言，并熟悉数据库建模报表设计工具jaspersoft studio。
+8. 熟练使用 SVN、MAVEN 等项目版本管理及构建工具。
+9. 能够熟练运用Eclipse和myEclipse等开发工具。
+10. 熟练运用JUnit,Debug进行程序调试。
+11. 熟悉Tomcat、Apache、JBoss等服务器配置
+
+Java开发工程师的面试自我介绍范文(一)
+
+我叫XXX，今年22岁，毕业于XXX计算机科学与技术专业。由于非常喜欢本专业，并期待将来从事专业方向的工作，因而在校期间十分注重对专业课的学习，拥有扎实的Core Java基础，良好的编程风格;熟悉JSP+Servlet+JavaBean模式的WEB开发;熟悉Struts，Hibernate，Spring等开源框架，了解EJB; 熟悉Tomcat，Jboss服务器等，熟悉基于Linux及Unix环境下的软件开发。因为专业课知识掌握牢固，以专业第一的综合成绩毕业。
+
+然而，我深知仅有专业知识是不够的，社会需要的是高素质复合型人才，因而在校期间学习之外，我积极参加各种社会实践活动，曾参与过学院网上虚拟实验室开发的需求分析。大三暑假曾在浪潮软件园实习，参与了电信增值软件开发与编挰，通过亲自动手及不断地向有经验的工程师请教学习，实习结束时我已经基本掌握整个Java平台的核心技术，独立编程能力大大提高。同时实习生活也让我意识到从事Java编程工作团队合作的重要性。
+
+虽然我的实际工作经验还不是很丰富，但相信有了扎实的专业基础知识和实习期间的实践经验，加上好学上进的精神，我能够胜任应聘岗位需求。希望贵公司给我这次机会。
+
+
+change master to master_host='192.168.242.200',master_user='backup',master_password='111223Yy',master_log_file='mysql-bin.000001',master_log_pos=154;
+
+
+
+qq
+
+ 通知与告警  黑名单管理
+应用信息 编辑
+SDK AppID	
+1400168568
+
+SDK AppID是短信应用的唯一标识，调用短信API接口时需要提供该参数。
+
+App Key 	
+b7d6aec3a37f48bd3cbaea0e84fa8107隐藏
